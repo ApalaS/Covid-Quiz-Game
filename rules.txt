@@ -4,8 +4,8 @@
 These are the rules and regulations :-
 
 only one attempt given to answer a question.
-+5 for each correct answer.
--2 for each wrong answer
++1 for each correct answer.
+no negative marking for wrong answer.
 there is only one correct answer to a question.
 marks and winner would be displayed at the end.
 
